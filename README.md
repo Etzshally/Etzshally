@@ -20,7 +20,7 @@
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything**
 
- ⚡ Fun fact **Every line of code I write is fueled by my unwavering love for crafting pioneering solutions 🚀**
+ ⚡ **Every line of code I write is fueled by my unwavering love for crafting pioneering solutions 🚀**
  
  </div>
  
