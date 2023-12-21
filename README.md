@@ -14,11 +14,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Saas and web apps**
+ 🔭 I’m currently working on **Applications development**
  
- 🌱 I’m currently learning **Redis, Redux**
+ 🌱 I’m currently learning **NestJS and AWS**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything**
+ 💬 Ask me about **Tech... or anything**
 
  ⚡ **Every line of code I write is fueled by my unwavering love for crafting pioneering solutions 🚀**
  
