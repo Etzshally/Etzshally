@@ -6,7 +6,7 @@
 
 <h3 align="center">A geek software developer from Islamabad PK</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Etzshally&row=3&column=3&theme=matrix" alt="Etzshally" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Etzshally&row=2&column=4&theme=matrix" alt="Etzshally" /></a> </p>
 
 
 
