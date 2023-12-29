@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **NestJS and AWS**
 
- 💬 Ask me about **Tech... or anything**
+ 💬 **Tell me what I can't do.**
 
  ⚡ **Every line of code I write is fueled by my unwavering love for crafting pioneering solutions 🚀**
  
