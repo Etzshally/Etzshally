@@ -35,8 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,github,python,javascript,express,firebase,mongodb" />
     <img src="https://skillicons.dev/icons?i=mui,mysql,flask,html,css,vscode,figma,git,aws" />
-    <img src="https://skillicons.dev/icons?i=next,graphql,postgres,postman,sqlite,tailwind,vercel" />
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+    <img src="https://skillicons.dev/icons?i=next,graphql,postman,sqlite,tailwind,vercel" />
 </div>
 
 <br/>
