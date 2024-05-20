@@ -11,12 +11,6 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Applications development**
- 
- 🌱 I’m currently learning **NestJS and AWS**
-
- 💬 **Tell me what I can't do.**
 
  ⚡ **Every line of code I write is fueled by my unwavering love for crafting pioneering solutions 🚀**
  
