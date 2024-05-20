@@ -33,9 +33,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,github,python,javascript,express,firebase,mongodb,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=mui,mysql,flask,html,css,vscode,figma,git,androidstudio" />
-    <img src="https://skillicons.dev/icons?i=next,cpp,graphql,postgres,postman,sqlite,tailwind,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,github,python,javascript,express,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mui,mysql,flask,html,css,vscode,figma,git,aws" />
+    <img src="https://skillicons.dev/icons?i=next,graphql,postgres,postman,sqlite,tailwind,vercel" />
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </div>
 
