@@ -36,6 +36,7 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,github,python,javascript,typescript,express,firebase,mongodb,nest" />
     <img src="https://skillicons.dev/icons?i=mui,npm,mysql,flask,html,css,vscode,figma,git,aws" />
     <img src="https://skillicons.dev/icons?i=next,graphql,postman,tailwind,vercel,ubuntu" />
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" />
 </div>
 
 <br/>
