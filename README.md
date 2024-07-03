@@ -37,18 +37,19 @@
     <img src="https://skillicons.dev/icons?i=next,postman,tailwind,vercel,ubuntu,docker" />
 </div>
 
+
 ### Languages:
-| Python3 | JS | TS |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
+| Python3 | C | JS | Solidity | GO |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
 
   
 
-### Frameworks and main libraries for Frontend Dev:
+### Best frameworks and main libraries for Python3:
 
-| React | NestJS | NextJS |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nest/nest-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 
 
@@ -78,6 +79,7 @@
 | Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
 |----------|----------|----------|----------|----------|
 |<img src="assets/meta.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
+
 
 
 <br/>
