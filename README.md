@@ -89,9 +89,9 @@
 
 ### IDEs and Daily Task Tools:
 
-| Figma | Trello | Slack |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> |
+| Vscode | Figma | Trello | Slack | Spotify ;) |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spotify/spotify-original.svg" title="Spotify" alt="Spotify" width="55" height="55"/> |
 
 
 ### OS:
@@ -99,6 +99,12 @@
 | Linux | Ubuntu |
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+
+### Cloud and deployment services:
+
+| AWS | Render | Vercel |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" title="aws" alt="aws" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/render/render-original.svg" title="render" alt="render" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="vercel" alt="vercel" width="55" height="55"/> |
 
 
 
