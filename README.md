@@ -49,7 +49,7 @@
 
 | NextJS | ReactJS | Vite |
 |----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" title="Vite" alt="Vite" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original-wordmark.svg" title="ViteJS" alt="ViteJS" width="55" height="55"/> |
 
 
 ### Frameworks and main libraries for Backend Dev:
@@ -75,9 +75,9 @@
   
 ### Environments, Testing, Other:
 
-| nodejs | Git | Github | Docker | Postman | VBox |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/> |
+| nodejs | Git | Github | Docker | Postman | Httpie | VBox |
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/24454777?s=200&v=4" title="Httpie" alt="Httpie" width="55" height="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/> |
 
 
 ### OS:
@@ -90,45 +90,3 @@
 
 <br/>
 <hr/>
-
-<!-- <div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <img alt="snake eating my contributions"
-        src="https://raw.githubusercontent.com/Etzshally/Etzshally/output/github-contribution-grid-snake.svg" />
-
-    <br /><br /><br />
-</div>
-
-<hr />
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img width=390 height=170
-        src="https://github-readme-stats-salesp07.vercel.app/api?username=etzshally&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10"
-        alt="readme stats" />
-    <img width=325 height=170 align="center"
-        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=etzshally&hide=SCSS,CSS,HTML&lang_count=10&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-        alt="top langs" />
-</div>
-
-<br /><br />
-<hr />
-
-<br /> -->
-
-<!--
-**Etzshally/Etzshally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
