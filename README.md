@@ -91,7 +91,7 @@
 
 | Vscode | Figma | Trello | Slack | Spotify ;) |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> | <img src="[https://github.com/devicons/devicon/blob/master/icons/spotify/spotify-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PN3qV0S8aTADQrJzLVkD7C87la0nk6POlA&s)" title="Spotify" alt="Spotify" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" title="Spotify" alt="Spotify" width="55" height="55"/> |
 
 
 ### OS:
