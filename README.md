@@ -49,7 +49,14 @@
 
 | NextJS | ReactJS | Vite |
 |----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original-wordmark.svg" title="ViteJS" alt="ViteJS" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="55" height="55"/> |
+
+
+### CSS and Styling Frameworks:
+
+| Tailwind | Bootstrap | Shadcn | Material UI | Flowbite |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Flowbite" alt="Flowbite" width="55" height="55"/> |
 
 
 ### Frameworks and main libraries for Backend Dev:
@@ -78,6 +85,13 @@
 | nodejs | Git | Github | Docker | Postman | Httpie | VBox |
 |----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/24454777?s=200&v=4" title="Httpie" alt="Httpie" width="55" height="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/> |
+
+
+### IDEs and Daily Task Tools:
+
+| Figma | Trello | Slack |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> |
 
 
 ### OS:
