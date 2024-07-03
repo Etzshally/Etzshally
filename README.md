@@ -21,22 +21,12 @@
   <a href="https://pk.linkedin.com/in/raja-shahpaal-5741b91bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-etzshally.vercel.app/" target="_blank">
+  <a href="https://shahpaal.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,github,python,javascript,typescript,express,firebase,mongodb,nest" />
-    <img src="https://skillicons.dev/icons?i=mui,npm,mysql,flask,html,css,vscode,figma,git" />
-    <img src="https://skillicons.dev/icons?i=next,postman,tailwind,vercel,ubuntu,docker" />
-</div>
-
 
 ### Languages:
 | Python3 | JS | TS |
