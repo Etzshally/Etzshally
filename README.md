@@ -104,7 +104,7 @@
 
 | AWS | Render | Vercel |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" title="aws" alt="aws" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/render/render-original.svg" title="render" alt="render" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="vercel" alt="vercel" width="55" height="55"/> |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" title="aws" alt="aws" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/render/render-original.svg" title="render" alt="render" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="vercel" alt="vercel" width="55" height="55"/> |
 
 
 
