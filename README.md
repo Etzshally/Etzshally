@@ -56,7 +56,7 @@
 
 | Tailwind | Bootstrap | Shadcn | Material UI | Flowbite |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Flowbite" alt="Flowbite" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="55" height="55"/> | <img src="https://flowbite.com/images/logo.svg" title="Flowbite" alt="Flowbite" width="55" height="55"/> |
 
 
 ### Frameworks and main libraries for Backend Dev:
@@ -91,7 +91,7 @@
 
 | Vscode | Figma | Trello | Slack | Spotify ;) |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spotify/spotify-original.svg" title="Spotify" alt="Spotify" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> | <img src="[https://github.com/devicons/devicon/blob/master/icons/spotify/spotify-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PN3qV0S8aTADQrJzLVkD7C87la0nk6POlA&s)" title="Spotify" alt="Spotify" width="55" height="55"/> |
 
 
 ### OS:
