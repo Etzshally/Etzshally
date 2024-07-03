@@ -39,7 +39,7 @@
 
 ### Languages:
 | Python3 | JS | TS |
-|----------|----------|----------|-----|-----|
+|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
 
   
@@ -47,7 +47,7 @@
 ### Frameworks and main libraries for Frontend Dev:
 
 | React | NestJS | NextJS |
-|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nest/nest-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|
 
 
