@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://portfolio-etzshally.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -30,133 +30,12 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<!-- <div align="center">
+
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,github,python,javascript,typescript,express,firebase,mongodb,nest" />
     <img src="https://skillicons.dev/icons?i=mui,npm,mysql,flask,html,css,vscode,figma,git" />
     <img src="https://skillicons.dev/icons?i=next,postman,tailwind,vercel,ubuntu,docker" />
-</div> -->
-
-<div align="center">
-    <style>
-        .tech-stack {
-            display: inline-block;
-            margin: 10px;
-            text-align: center;
-        }
-        .tech-stack img {
-            display: block;
-            margin: 0 auto;
-            width: 50px; /* Adjust the size as needed */
-            height: 50px; /* Adjust the size as needed */
-        }
-        .tech-stack span {
-            display: block;
-            margin-top: 5px;
-        }
-    </style>
-
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-        <span>React</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-        <span>Node.js</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-        <span>GitHub</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-        <span>Python</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-        <span>JavaScript</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-        <span>TypeScript</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-        <span>Express</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-        <span>Firebase</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-        <span>MongoDB</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=nest" alt="NestJS" />
-        <span>NestJS</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" />
-        <span>Material-UI</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
-        <span>npm</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-        <span>MySQL</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-        <span>Flask</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-        <span>HTML</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-        <span>CSS</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-        <span>VS Code</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-        <span>Figma</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-        <span>Git</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=next" alt="Next.js" />
-        <span>Next.js</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-        <span>Postman</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-        <span>Tailwind CSS</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-        <span>Vercel</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
-        <span>Ubuntu</span>
-    </div>
-    <div class="tech-stack">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-        <span>Docker</span>
-    </div>
 </div>
-
 
 <br/>
 <hr/>
