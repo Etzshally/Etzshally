@@ -55,8 +55,8 @@
 ### Frameworks and main libraries for Backend Dev:
 
 | NestJS | Node | Flask | Express |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS"  alt="NestJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/node/node-original.svg" title="Node"  alt="Node" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/>
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS"  alt="NestJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/node/node-original.svg" title="Node"  alt="Node" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/> |
 
 
 ### My tools for Data Manipulation & Visualisation:
