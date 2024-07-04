@@ -28,6 +28,17 @@
 
  <hr/>
 
+## About Me
+
+I am a full stack developer specializing in web-based applications, primarily working on private projects for international startups. I assist in digital transformation by helping businesses migrate online and enhancing existing software solutions. Passionate about crafting robust software solutions, I thrive on integrating cutting-edge technologies. My tech stack includes TypeScript, JavaScript, and Python, essential for modern web development. My expertise includes software architecture, API integrations, and full stack development. I am proficient in macOS, Linux, and Windows, adapting seamlessly to different environments. Eager to tackle new challenges, I continuously learn and stay updated with the latest tech trends and advancements.
+
+### Working on: 🚀
+
+- Multiple private projects.
+- Learning Advanced TypeScript.
+
+## Languages and Tools
+
 ### Languages:
 | Python3 | JS | TS |
 |----------|----------|----------|
