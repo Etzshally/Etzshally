@@ -30,12 +30,11 @@
 
 ## About Me
 
-As a full stack developer, I revolutionize web applications for global startups, spearheading digital transformation and advancing software solutions. The programming languages i have proficiency includes TypeScript, JavaScript, and Python. Adapting seamlessly to macOS, Linux, and Windows. Passionate about crafting robust and quality solutions, I stay updated with the latest tech trends. I'm passionate about streamlining the development process, and staying updated with the latest technologies like cloud services and containerization.
+As a full stack developer, I revolutionize web applications for global startups, spearheading digital transformation and advancing software solutions. The programming languages i have proficiency includes TypeScript, JavaScript, and Python. Adapting seamlessly to Linux and Windows. Passionate about crafting robust and quality solutions, I stay updated with the latest tech trends.
 
 ### Working on: 🚀
 
 - Multiple private projects.
-- Learning Advanced TypeScript.
 
 ## Languages and Tools
 
