@@ -47,9 +47,9 @@ As a full stack developer, I revolutionize web applications for global startups,
 
 ### Frameworks and main libraries for Frontend Dev:
 
-| NextJS | ReactJS | Vite |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="55" height="55"/> |
+| ReactJS | Vite |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="55" height="55"/> |
 
 
 ### CSS and Styling Frameworks:
@@ -61,9 +61,9 @@ As a full stack developer, I revolutionize web applications for global startups,
 
 ### Frameworks and main libraries for Backend Dev:
 
-| NestJS | Node | Flask | Express |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS"  alt="NestJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"  alt="Node" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/> |
+| Node | Flask | Express |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"  alt="Node" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/> |
 
 
 ### Databases:
