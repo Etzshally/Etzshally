@@ -38,10 +38,7 @@ Just a guy who loves tech.
 
 ### Languages:
 | JS | TS |
-|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> |
-
-  Here is the updated version with all your requested changes applied:
 
 ---
 
@@ -71,9 +68,9 @@ Just a guy who loves tech.
 
 ### **Databases:**
 
-| Redis                                                                                                  | PostgreSQL                                                                                                       | MySQL                                                                                                           | MongoDB                                                                                                    | Firebase                                                                                                     |
+| Redis                                                                                                  | PostgreSQL                                                                                                       | MySQL                                                                                                           | Firebase                                                                                                     |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="55"/> |
 
 ---
 
@@ -88,8 +85,8 @@ Just a guy who loves tech.
 ### **Environments, Testing, Other:**
 
 | NodeJS                                                                                                            | GitHub                                                                                                            | Postman                                                                                                             | Httpie                                                                             | VBox                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="55"/> | <img src="https://avatars.githubusercontent.com/u/24454777?s=200&v=4" width="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" width="55"/> |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="55"/> | <img src="https://avatars.githubusercontent.com/u/24454777?s=200&v=4" width="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" width="55"/> |
 
 ---
 
