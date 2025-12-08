@@ -38,6 +38,7 @@ Just a guy who loves tech.
 
 ### Languages:
 | JS | TS |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> |
 
 ---
@@ -79,14 +80,6 @@ Just a guy who loves tech.
 | Docker                                                                                                            | Nginx                                                                                                  | Git                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55"/> |
-
----
-
-### **Environments, Testing, Other:**
-
-| NodeJS                                                                                                            | GitHub                                                                                                            | Postman                                                                                                             | Httpie                                                                             | VBox                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="55"/> | <img src="https://avatars.githubusercontent.com/u/24454777?s=200&v=4" width="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" width="55"/> |
 
 ---
 
