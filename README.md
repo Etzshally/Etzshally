@@ -69,8 +69,10 @@ Just a guy who loves tech.
 
 ### **Databases:**
 
-| Redis                                                                                                  | PostgreSQL                                                                                                       | MySQL                                                                                                           | Firebase                                                                                                     |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+### **Databases:**
+
+| Redis | PostgreSQL | MySQL | Firebase |
+|-------|------------|--------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="55"/> |
 
 ---
