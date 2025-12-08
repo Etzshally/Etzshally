@@ -67,6 +67,14 @@ Just a guy who loves tech.
 
 ---
 
+### **Messaging / Event Streaming:**
+
+| BullMQ | Kafka |
+|--------|-------|
+| <img src="https://raw.githubusercontent.com/taskforcesh/bullmq/master/docs/logo.png" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="55"/> |
+
+---
+
 ### **Databases:**
 
 ### **Databases:**
