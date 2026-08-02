@@ -1,4 +1,4 @@
-# Hello there 👋
+# Please don't judge me by my old repositories :)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etzshally.etzshally)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -25,7 +25,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: [https://shahpaal.vercel.app/](https://shahpaal.vercel.app/)
+- Personal website: [https://shahpaal.vercel.app/](https://shahpaal.vercel.app/)
 
 ### 📔 Latest Blog posts
 
@@ -77,8 +77,8 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
 ![Cursor](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&color=6aa6f8)
 
-## 🌟 GitHub Stats
-
+<!-- ## 🌟 GitHub Stats
+<!--
 <a href="https://github.com/etzshally/etzshally">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzshally&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="etzshally's GitHub Stats" />
 </a>
@@ -87,20 +87,23 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=etzshally&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="etzshally's GitHub Stats" />
 </a> -->
 
-## 🏆 GitHub Trophies
+## 🗂️ Featured Projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=etzshally&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 📄 Docs RAG App
+AI-powered document chat application built with FastAPI, LangChain, OpenAI, and Qdrant.
 
-## 🗂️ Highlight Projects
+🔗 https://shahpaal.vercel.app/projects/docs-rag-app
 
-<a href="https://shahpaal.vercel.app/projects/docs-rag-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzshally&repo=docs-rag-app&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Docs RAG App" />
-</a>
+---
 
-<a href="https://shahpaal.vercel.app/projects/gymyg-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzshally&repo=gymyg-platform&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gymyg Platform" />
-</a>
+### 🏋️ Gymyg Platform
+Full-stack fitness SaaS platform with AI-powered features.
 
-<a href="https://shahpaal.vercel.app/projects/bluenodes-smart-heating">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzshally&repo=bluenodes-smart-heating&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bluenodes Smart Heating" />
-</a>
+🔗 https://shahpaal.vercel.app/projects/gymyg-platform
+
+---
+
+### 🌡️ Bluenodes Smart Heating
+IoT dashboard for monitoring and controlling smart heating systems.
+
+🔗 https://shahpaal.vercel.app/projects/bluenodes-smart-heating
