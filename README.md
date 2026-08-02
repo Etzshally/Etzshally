@@ -1,4 +1,5 @@
 # Please don't judge me by my old repositories :)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:9B5DE5&height=120&section=header"/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etzshally.etzshally)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -77,16 +78,6 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
 ![Cursor](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&color=6aa6f8)
 
-<!-- ## 🌟 GitHub Stats
-<!--
-<a href="https://github.com/etzshally/etzshally">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzshally&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="etzshally's GitHub Stats" />
-</a>
-
-<a href="https://github.com/etzshally/etzshally">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=etzshally&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="etzshally's GitHub Stats" />
-</a> -->
-
 ## 🗂️ Featured Projects
 
 ### 📄 Docs RAG App
@@ -107,3 +98,5 @@ Full-stack fitness SaaS platform with AI-powered features.
 IoT dashboard for monitoring and controlling smart heating systems.
 
 🔗 https://shahpaal.vercel.app/projects/bluenodes-smart-heating
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:9B5DE5&height=120&section=footer"/>
