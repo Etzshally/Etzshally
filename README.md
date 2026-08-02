@@ -1,10 +1,6 @@
 # Hello, Let's be done with it :)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etzshally.etzshally)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:9B5DE5&height=120&section=header"/>
-
 
 ```python
 #!/usr/bin/python
