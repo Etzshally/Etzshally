@@ -1,108 +1,106 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🌐;+I'm+Shahpaal!;" />
-</h1>
+# Hello there 👋
 
-<h3 align="center">Software Engineer</h3>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=etzshally.etzshally)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<br/>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<div align="center">
 
- ⚡ **Every line of code I write is fueled by my unwavering love for crafting pioneering solutions 🚀**
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:shahpaal10@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://pk.linkedin.com/in/raja-shahpaal-5741b91bb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://shahpaal.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+class AIFullStackDeveloper:
 
- <hr/>
+    def __init__(self):
+        self.name = "Muhammad Shahpaal"
+        self.role = "AI Full Stack Developer"
+        self.language_spoken = ["ur_PK", "en_US"]
 
-## About Me
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-Just a guy who loves tech.
 
-### Working on: 🚀
+me = AIFullStackDeveloper()
+me.say_hi()
+```
 
-- Multiple private projects.
+## 📝 Blogs
 
-## Languages and Tools
+- Personal website and blog: [https://shahpaal.vercel.app/](https://shahpaal.vercel.app/)
 
-### Languages:
-| JS | TS |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> |
+### 📔 Latest Blog posts
 
----
+<!-- BLOG-POST-LIST:START -->
+<!--
+- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
+- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
+- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
+- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
+- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
+--!>
+<!-- BLOG-POST-LIST:END -->
 
-### **Frameworks and main libraries for Frontend Dev:**
+## 🔧 Technologies & Tools
 
-| ReactJS                                                                                                            | Vite                                                                                                                 | NextJS                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"/> |
+**Programming Languages:**
 
----
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 
-### **CSS and Styling Frameworks:**
+**AI:**
 
-| Tailwind                                                                                                           | Bootstrap                                                                                                      | Shadcn                                                                              | Material UI                                                                                                      | Flowbite                                                     |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="55"/> | <img src="https://flowbite.com/images/logo.svg" width="55"/> |
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
+![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=langchain&logoColor=white&color=6aa6f8)
+![LangGraph](https://img.shields.io/badge/AI-LangGraph-informational?style=flat&color=6aa6f8)
+![MCP](https://img.shields.io/badge/Protocol-MCP-informational?style=flat&color=6aa6f8)
 
----
+**Full-stack:**
 
-### **Frameworks and main libraries for Backend Dev:**
+![Express.js](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=6aa6f8)
+![Django](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
 
-| NodeJS                                                                                                   | Express                                                                                                    | NestJS                                                                                                   |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="55"/> |
+**Databases & vector-stores:**
 
----
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![Firebase](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
+![Chroma](https://img.shields.io/badge/VectorDB-Chroma-informational?style=flat&color=6aa6f8)
+![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-informational?style=flat&logo=qdrant&logoColor=white&color=6aa6f8)
+![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
 
-### **Messaging / Event Streaming:**
+**Tools and Services:**
 
-| BullMQ | Kafka | RabbitMQ |
-|--------|-------|----------|
-| <img src="https://bullmq.io/images/bullmq-logo.png" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="55"/> |
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
+![Cursor](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&color=6aa6f8)
 
----
+## 🌟 GitHub Stats
 
-### **Databases:**
+<a href="https://github.com/etzshally/etzshally">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzshally&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="etzshally's GitHub Stats" />
+</a>
 
-| Redis | PostgreSQL | MySQL | Firebase |
-|-------|------------|--------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="55"/> |
+<a href="https://github.com/etzshally/etzshally">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=etzshally&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="etzshally's GitHub Stats" />
+</a> -->
 
----
+## 🏆 GitHub Trophies
 
-### **DevOps & Infrastructure Tools:**
+[![trophy](https://github-profile-trophy.vercel.app/?username=etzshally&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-| Docker                                                                                                            | Nginx                                                                                                  | Git                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55"/> |
+## 🗂️ Highlight Projects
 
----
+<a href="https://shahpaal.vercel.app/projects/docs-rag-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzshally&repo=docs-rag-app&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Docs RAG App" />
+</a>
 
-### **IDEs and Daily Task Tools:**
+<a href="https://shahpaal.vercel.app/projects/gymyg-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzshally&repo=gymyg-platform&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gymyg Platform" />
+</a>
 
-| VSCode                                                                                                   | Figma                                                                                                  | Trello                                                                                                   | Slack                                                                                                  | Spotify 😉                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" width="55"/> |
-
----
-
-### **OS:**
-
-| Windows                                                                                                        | Ubuntu                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55"/> |
-
----
+<a href="https://shahpaal.vercel.app/projects/bluenodes-smart-heating">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzshally&repo=bluenodes-smart-heating&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bluenodes Smart Heating" />
+</a>
