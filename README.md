@@ -1,8 +1,7 @@
 # Please don't judge me by my old repositories :)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:9B5DE5&height=120&section=header"/>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etzshally.etzshally)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:9B5DE5&height=120&section=header"/>
 
 ```python
 #!/usr/bin/python
@@ -80,23 +79,91 @@ me.say_hi()
 
 ## 🗂️ Featured Projects
 
-### 📄 Docs RAG App
-AI-powered document chat application built with FastAPI, LangChain, OpenAI, and Qdrant.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/openai" width="22" />
+&nbsp;Docs RAG App
+</h3>
+
+AI-powered document chat application that lets users upload documents, chat with them using RAG, stream responses in real time, and manage vector embeddings.
+
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=flat-square" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
+
+<br><br>
 
 🔗 https://shahpaal.vercel.app/projects/docs-rag-app
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🏋️ Gymyg Platform
-Full-stack fitness SaaS platform with AI-powered features.
+
+Multi-tenant fitness SaaS platform with AI-powered features, live workout sessions, branded dashboards, and subscription management.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/SaaS-6aa6f8?style=flat-square" />
+
+<br><br>
 
 🔗 https://shahpaal.vercel.app/projects/gymyg-platform
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🌡️ Bluenodes Smart Heating
-IoT dashboard for monitoring and controlling smart heating systems.
+
+IoT dashboard for monitoring, scheduling, and controlling smart heating systems with real-time analytics.
+
+<br>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-6aa6f8?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" />
+
+<br><br>
 
 🔗 https://shahpaal.vercel.app/projects/bluenodes-smart-heating
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+
+Explore additional AI, full-stack, and open-source projects.
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-6aa6f8?style=flat-square" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_Source-black?style=flat-square" />
+
+<br><br>
+
+🔗 https://shahpaal.vercel.app/projects
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:9B5DE5&height=120&section=footer"/>
