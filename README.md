@@ -70,9 +70,9 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 <a href="#">
-  <b><h6>📄 Docs RAG App</h6></b>
+  <strong>📄 Docs RAG App</strong>
 </a> <b>-</b>
-<sub>AI-powered document chat application that lets users upload documents, chat with them using RAG, stream responses in real time, and manage vector embeddings.</sub>
+<small>AI-powered document chat application that lets users upload documents, chat with them using RAG, stream responses in real time, and manage vector embeddings.</small>
 <br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
