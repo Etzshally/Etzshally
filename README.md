@@ -7,18 +7,24 @@
 # -*- coding: utf-8 -*-
 
 
-class AIFullStackDeveloper:
+class Shahpaal:
 
     def __init__(self):
-        self.name = "Muhammad Shahpaal"
         self.role = "AI Full Stack Developer"
+        self.name = "Muhammad Shahpaal"
         self.language_spoken = ["ur_PK", "en_US"]
+
+    def status(self):
+        return {
+            "Currently Building": "AI Agents & Applications",
+            "Open To": "Full-time opportunities",
+        }
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = AIFullStackDeveloper()
+me = Shahpaal()
 me.say_hi()
 ```
 
