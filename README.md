@@ -69,31 +69,18 @@ me.say_hi()
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>
-<a href="https://shahpaal.vercel.app/projects/docs-rag-app">
-📄 Docs RAG App
-</a>
-</h4>
-
-<sub>
-AI-powered document chat application with RAG, streaming responses, vector search, and document management.
-</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-GitHub?style=for-the-badge&logo=fastapi" height="18"/>
-<img src="https://img.shields.io/badge/LangChain-GitHub?style=for-the-badge" height="18"/>
-<img src="https://img.shields.io/badge/OpenAI-GitHub?style=for-the-badge&logo=openai" height="18"/>
-<img src="https://img.shields.io/badge/Qdrant-GitHub?style=for-the-badge&logo=qdrant" height="18"/>
-<img src="https://img.shields.io/badge/React-GitHub?style=for-the-badge&logo=react" height="18"/>
-
-<br><br>
-
-<sub>
-🔗 <a href="https://shahpaal.vercel.app/projects/docs-rag-app">
-View Project
-</a>
-</sub>
+<a href="#">
+  <b><h6>📄 Docs RAG App</h6></b>
+</a> <b>-</b>
+<sub>AI-powered document chat application that lets users upload documents, chat with them using RAG, stream responses in real time, and manage vector embeddings.</sub>
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=flat-square" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
+<br>
+🔗 https://shahpaal.vercel.app/projects/docs-rag-app
 </td>
 
 <td width="50%" valign="top">
