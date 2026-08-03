@@ -70,7 +70,7 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 <a href="#">
-  <strong>📄 Docs RAG App</strong>
+  <strong>🤖 Docs RAG App</strong>
 </a> <b>-</b>
 AI-powered document chat application that lets users upload documents, chat with them using RAG, stream responses in real time, and manage vector embeddings.
 <br>
@@ -79,8 +79,6 @@ AI-powered document chat application that lets users upload documents, chat with
 <code>OpenAI</code>
 <code>Qdrant</code>
 <code>React</code>
-<br>
-🔗 https://shahpaal.vercel.app/projects/docs-rag-app
 </td>
 
 <td width="50%" valign="top">
@@ -94,8 +92,6 @@ Multi-tenant fitness SaaS platform with AI-powered features, live workout sessio
 <code>MongoDB</code>
 <code>OpenAI</code>
 <code>SaaS</code>
-<br>
-🔗 https://shahpaal.vercel.app/projects/gymyg-platform
 </td>
 </tr>
 
@@ -110,8 +106,6 @@ IoT dashboard for monitoring, scheduling, and controlling smart heating systems 
 <code>TypeScript</code>
 <code>PostgreSQL</code>
 <code>IoT</code>
-<br>
-🔗 https://shahpaal.vercel.app/projects/bluenodes-smart-heating
 </td>
 
 <td width="50%" valign="top">
@@ -124,8 +118,6 @@ Explore additional AI, full-stack, and open-source projects across web developme
 <code>React</code>
 <code>Python</code>
 <code>Open Source</code>
-<br>
-🔗 https://shahpaal.vercel.app/projects
 </td>
 </tr>
 </table>
