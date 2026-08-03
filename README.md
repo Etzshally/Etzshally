@@ -72,28 +72,28 @@ me.say_hi()
 <a href="#">
   <strong>📄 Docs RAG App</strong>
 </a> <b>-</b>
-<small>AI-powered document chat application that lets users upload documents, chat with them using RAG, stream responses in real time, and manage vector embeddings.</small>
+AI-powered document chat application that lets users upload documents, chat with them using RAG, stream responses in real time, and manage vector embeddings.
 <br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=flat-square" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
+<code>FastAPI</code>
+<code>LangChain</code>
+<code>OpenAI</code>
+<code>Qdrant</code>
+<code>React</code>
 <br>
 🔗 https://shahpaal.vercel.app/projects/docs-rag-app
 </td>
 
 <td width="50%" valign="top">
 <a href="#">
-  <b>🏋️ Gymyg Platform</b>
+  <strong>🏋️ Gymyg Platform</strong>
 </a> <b>-</b>
 Multi-tenant fitness SaaS platform with AI-powered features, live workout sessions, branded dashboards, and subscription management.
 <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/SaaS-6aa6f8?style=flat-square" />
+<code>React</code>
+<code>Node.js</code>
+<code>MongoDB</code>
+<code>OpenAI</code>
+<code>SaaS</code>
 <br>
 🔗 https://shahpaal.vercel.app/projects/gymyg-platform
 </td>
@@ -102,29 +102,28 @@ Multi-tenant fitness SaaS platform with AI-powered features, live workout sessio
 <tr>
 <td width="50%" valign="top">
 <a href="#">
-  <b>🌡️ Bluenodes Smart Heating</b>
+  <strong>🌡️ Bluenodes Smart Heating</strong>
 </a> <b>-</b>
 IoT dashboard for monitoring, scheduling, and controlling smart heating systems with real-time analytics.
 <br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
-<img src="https://img.shields.io/badge/IoT-6aa6f8?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" />
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>PostgreSQL</code>
+<code>IoT</code>
 <br>
 🔗 https://shahpaal.vercel.app/projects/bluenodes-smart-heating
-
 </td>
 
 <td width="50%" valign="top">
 <a href="#">
-<b>🚀 More Projects</b>
+  <strong>🚀 More Projects</strong>
 </a> <b>-</b>
-Explore additional AI, full-stack, and open-source projects.
+Explore additional AI, full-stack, and open-source projects across web development, data, and automation.
 <br>
-<img src="https://img.shields.io/badge/AI-6aa6f8?style=flat-square" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/Open_Source-black?style=flat-square" />
+<code>AI</code>
+<code>React</code>
+<code>Python</code>
+<code>Open Source</code>
 <br>
 🔗 https://shahpaal.vercel.app/projects
 </td>
