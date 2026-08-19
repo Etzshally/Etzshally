@@ -16,7 +16,7 @@ class Shahpaal:
 
     def status(self):
         return {
-            "Currently Building": "AI Agents & Applications",
+            "Currently Building": "Applications & AI Agents",
             "Open To": "Full-time opportunities",
         }
 
@@ -36,23 +36,20 @@ me.say_hi()
 
 **Programming Languages:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2)
 
 **AI:**
 
-![OpenAI](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
-![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=langchain&logoColor=white&color=6aa6f8)
-![LangGraph](https://img.shields.io/badge/AI-LangGraph-informational?style=flat&color=6aa6f8)
+![OpenAI SDK](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
 ![MCP](https://img.shields.io/badge/Protocol-MCP-informational?style=flat&color=6aa6f8)
 
 **Full-stack:**
 
+![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![Express.js](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8)
 ![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=6aa6f8)
-![Django](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
 
 **Databases & vector-stores:**
 
@@ -118,7 +115,7 @@ IoT dashboard for monitoring, scheduling, and controlling smart heating systems 
 <a href="#">
   <strong>🚀 More Projects</strong>
 </a> <b>-</b>
-Explore additional AI, full-stack, and open-source projects across web development, data, and automation.
+Explore additional full-stack, AI, and open-source projects.
 <br>
 <code>AI</code>
 <code>React</code>
