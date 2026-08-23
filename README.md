@@ -28,10 +28,6 @@ me = Shahpaal()
 me.say_hi()
 ```
 
-## 📝 Website
-
-- Here: [https://shahpaal.vercel.app/](https://shahpaal.vercel.app/)
-
 ## 🔧 Technologies & Tools
 
 **Programming Languages:**
@@ -65,6 +61,10 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
 ![Cursor](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&color=6aa6f8)
+
+## 📝 Website
+
+- <b>Here</b>: [https://shahpaal.vercel.app/](https://shahpaal.vercel.app/)
 
 ## 🗂️ Featured Projects
 
