@@ -57,7 +57,6 @@ me.say_hi()
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 ![Firebase](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
 ![Chroma](https://img.shields.io/badge/VectorDB-Chroma-informational?style=flat&color=6aa6f8)
-![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-informational?style=flat&logo=qdrant&logoColor=white&color=6aa6f8)
 ![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
