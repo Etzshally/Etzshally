@@ -1,4 +1,4 @@
-# Hello, Let's be done with it :)
+# Hello!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etzshally.etzshally)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
